@@ -1,5 +1,11 @@
-listt = [1,2,3]
-listt[0] = listt[2] / listt[1]
+a = 1
+b = 2
+
+c = a+b
+print(c)
+a = 5
+
+c = a+b
+print(c)
 
 
-print(listt)

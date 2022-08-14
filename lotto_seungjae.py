@@ -26,7 +26,7 @@ for i in range(45):
 
     percentage_lotto[i] = find_lotto/entire_count
 
-print(percentage_lotto)
+print(entire_count)
 
 number = [0] *45
 
